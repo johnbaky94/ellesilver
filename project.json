@@ -1,0 +1,22 @@
+{
+  "overview": "A full-featured silver jewelry e-commerce store with an admin panel for uploading and managing products by category, a beautiful storefront for customers to browse and search, and a full cart + Stripe checkout flow.",
+  "features": [
+    "Admin product management with image uploads",
+    "Category management and filtering",
+    "Customer storefront with search and browse",
+    "Shopping cart with quantity selection",
+    "Stripe checkout and order confirmation",
+    "Order history for admin and customers"
+  ],
+  "category": "e-commerce",
+  "tags": [
+    "jewelry",
+    "e-commerce",
+    "silver",
+    "shop",
+    "products",
+    "stripe",
+    "admin"
+  ],
+  "last_updated": "2026-04-29T10:55:09.112Z"
+}
